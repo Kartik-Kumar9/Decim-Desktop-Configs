@@ -1,0 +1,13 @@
+{
+  "theme": "",
+  "controlStyles[0].target": "Grid#OverflowRootGrid > Border",
+  "controlStyles[0].styles[0]": "Background:=<AcrylicBrush TintColor=\"#000000\" TintLuminosityOpacity=\"0.75\" TintOpacity=\"0.65\" Opacity=\"0.8\" FallbackColor=\"#000000\"/>",
+  "resourceVariables[0].variableKey": "",
+  "resourceVariables[0].value": "",
+  "controlStyles[0].styles[1]": "BorderThickness=.85,.85,.85,.85",
+  "controlStyles[0].styles[2]": "CornerRadius=12",
+  "controlStyles[0].styles[3]": "BorderBrush:=<AcrylicBrush TintColor=\"{ThemeResource SurfaceStrokeColorDefault}\" FallbackColor=\"{ThemeResource SurfaceStrokeColorDefault}\" TintOpacity=\"0\" TintLuminosityOpacity=\".5\" Opacity=\".85\"/>",
+  "controlStyles[0].styles[4]": "Margin=0,0,0,0",
+  "controlStyles[1].target": "Grid#OverflowRootGrid ",
+  "controlStyles[1].styles[0]": "Margin=210,0,0,0"
+}
