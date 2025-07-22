@@ -9,5 +9,6 @@
   "controlStyles[0].styles[3]": "BorderBrush:=<AcrylicBrush TintColor=\"{ThemeResource SurfaceStrokeColorDefault}\" FallbackColor=\"{ThemeResource SurfaceStrokeColorDefault}\" TintOpacity=\"0\" TintLuminosityOpacity=\".5\" Opacity=\".85\"/>",
   "controlStyles[0].styles[4]": "Margin=0,0,0,0",
   "controlStyles[1].target": "Grid#OverflowRootGrid ",
-  "controlStyles[1].styles[0]": "Margin=210,0,0,0"
+  "controlStyles[1].styles[0]": "#Margin=0,0,0,0",
+  "styleConstants[0]": ""
 }
